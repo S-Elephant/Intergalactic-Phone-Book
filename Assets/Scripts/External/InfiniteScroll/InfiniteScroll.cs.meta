@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ceef2802bd78bf347b17bfecc40ba11e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Prefab: {instanceID: 0}
+  - LabelsFont: {fileID: 11400000, guid: aee4d7b9f0084a048be658bbe28d2db7, type: 2}
+  - TopLabel: {instanceID: 0}
+  - BottomLabel: {instanceID: 0}
+  - LeftLabel: {instanceID: 0}
+  - RightLabel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

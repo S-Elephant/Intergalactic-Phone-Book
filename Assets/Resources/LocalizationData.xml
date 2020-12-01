@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Language version="1.0.0" languages="gb,nl" defaultLanguage="nl">
+	<!-- Titles-->
+	<AppTitle gb="Intergalactic Phone Book" nl="Intergalactic Phone Book" />
+	<ContactsTitle gb="contacts" nl="contacten" />
+	<CreateContactsTitle gb="add contact" nl="nieuw contact" />
+	<UpdateContactsTitle gb="edit contact" nl="bewerk contact" />
+	
+	<!-- Misc -->
+	<Login gb="login" nl="login" />
+	<Register gb="register" nl="registreer" />
+	<Email gb="e-mail" nl="e-mail" />
+	<Password gb="password" nl="wachtwoord" />
+	<RememberEmail gb="remember e-mail" nl="onthoud e-mail" />
+	<RememberPassword gb="remember password" nl="onthoud wachtwoord" />
+	<UserCreationSuccess gb="user succesfully created." nl="gebuiker succesvol aangemaakt." />
+	<ConnectedToRemote gb="connected to remote server" nl="verbonden met externe server" />
+	<ConnectionFailed gb="connection failed" nl="verbinding mislukt" />
+	<RemoteConnectionDisabled gb="remote connection disabled" nl="externe verbinding uitgeschakeld" />
+	<Search gb="search" nl="zoek" />
+	<Edit gb="edit" nl="bewerk" />
+	<GyroNotSupported gb="this device doesn't have a gyroscope" nl="dit apparaat heeft geen gyroscope" />
+	
+	<!-- Create/Update contact -->
+	<EnterName gb="enter name" nl="naam" />
+	<EnterMiddleName gb="enter middlename" nl="tussenvoegsel" />
+	<EnterSurname gb="enter surname" nl="achternaam" />
+	<EnterTelephoneNr gb="enter telephone #" nl="telefoon #" />
+	<EnterEmail gb="enter e-mail" nl="e-mail" />
+	<EnterTwitterHandle gb="enter Twitter handle" nl="Twitter handle" />
+	<EnterDescription gb="enter description" nl="omschrijving" />
+	<Revert gb="revert" nl="draai terug" />
+	<Cancel gb="cancel" nl="annuleer" />
+	<Update gb="update" nl="bewaar" />
+	<Add gb="add" nl="voeg toe" />
+	<Name gb="name" nl="naam" />
+	<MiddleName gb="middle name" nl="tussenvoegsel" />
+	<Surname gb="surname" nl="achternaam" />
+	<TelephoneNr gb="Telephone #" nl="telefoon #" />
+	<Twitter gb="Twitter" nl="Twitter" />
+	<Description gb="description" nl="omschrijving" />
+	<CreationTimestamp gb="created on" nl="gecreëerd op" />
+	<LastUpdatedTimestamp gb="last modified on" nl="Laatste wijziging op" />
+	
+	<!-- Error and warning messages -->
+	<ErrorLoginCreds gb="invalid login credentials" nl="ongeldige login info" />
+	<FillInEmailField gb="please enter a valid e-mail" nl="vul een geldige e-mail in" />
+	<FillInPasswordField gb="please enter a valid password" nl="vul een geldig wachtwoord in" />
+	<UnknownError gb="an unknown error occured." nl="onbekende fout opgetreden" />
+	<EmailAlreadyExists gb="sorry, e-mail already exists." nl="sorry, e-mail bestaat al" />
+</Language>

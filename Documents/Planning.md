@@ -1,0 +1,28 @@
+Rough planning (in reverse order):
+- [ ] Test.
+- [ ] Documentation polishing.
+- [ ] Release error handling.
+- [ ] Handle time-outs to external database.
+  - [ ] Popup message "using offline data instead, not synched".
+- [ ] Encrypt all data.
+- [ ] Play SFX.
+- [x] Add option to remember username.
+- [ ] Add "Work Offline" button to the login menu.
+- [x] Create Core App + Database.
+  - [x] Connect the Phone Book with the Core back-end.
+- [ ] Options Menu.
+  - [ ] Set backgrounds through MenuMgr?
+  - [ ] SetFont() script? So i can change the font everywhere? Yeah, I should make this a setting.
+- [x] Contact buttons pooling.
+- [x] Add local database.
+- [ ] Make guide on switching database.
+- [ ] ContactsMenu.
+  - [x] I gotta figure out how to animate GUI's in Unity without wasting too much time.
+  - [x] Open menu for editing/deleting contacts.
+  - [ ] Sort contacts a per customer requirements.
+- [ ] Unit Testing (at this point there's nothing that I'd like to UnitTest, so skip for now).
+- [x] Login using Repo DP and show ContactsMenu.
+- [x] Create popup messages.
+  - [x] Slides in from the side, fades out, multiple popups supported (up to 3) and then the previous ones gets deleted.
+- [x]  Add temporary hardcoded values to simulate the database so that I can create the ContactsMenu.
+- [x]  Repository Design Pattern.

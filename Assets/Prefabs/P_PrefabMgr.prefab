@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6996100628606336789
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1558511313527555248}
+  - component: {fileID: 2112325560247936847}
+  m_Layer: 0
+  m_Name: P_PrefabMgr
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1558511313527555248
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6996100628606336789}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2112325560247936847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6996100628606336789}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7eaecc7b83fb30e48ad44921b413a978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LogDebugInfo: 0
+  ContactsRow: {fileID: 4905267219885319630, guid: 4061e1dbd6dca3547b80d3ee4c29f71d, type: 3}
+  EventSystem: {fileID: 5726709649214972588, guid: e6042b3dc63f7e64a9db5a66ade9a717, type: 3}
+  Popup: {fileID: 6764313548650496570, guid: ffd86ddd8fae45e41b33563965ac534a, type: 3}
+  TheCanvas: {fileID: 5512814875076412683, guid: 6efba1ab82be7cb409b1dc9800d560f1, type: 3}
+  AddEditRow: {fileID: 662556464407995358, guid: cdd774e6f41bbc84ca246d305cd8701a, type: 3}
+  CreateUpdateContactsMenu: {fileID: 6097842032056011044, guid: b7fd47ca216723b40a26d6c1026bd61e, type: 3}
+  ContactsMenu: {fileID: 6108015128613604129, guid: 6549b698d78ed724aa3aa01146806308, type: 3}
+  LoginMenu: {fileID: 2228450857247104158, guid: ce89cb5d60faee54988fd1b6c41f7784, type: 3}
+  DebugPrefab: {fileID: 4167585243630168234, guid: aaff816c9d1454243a0bba85ed1d23b9, type: 3}
+  AngryCat: {fileID: 2023644376075252693, guid: 53b0ea31975638c488b711d36d33d37a, type: 3}
+  CatTerminator: {fileID: 8378364109537791014, guid: 1e86d909f281a0c4d819a1f2b798aad4, type: 3}
+  UltraNova: {fileID: 196738, guid: d58b2e279376a814faf2e5a6ff13a127, type: 3}
